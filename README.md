@@ -6,6 +6,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-orange)
 
+![Скриншот интерфейса main.py](https://raw.githubusercontent.com/DenisPythoneer/MitMToolkit/main/image/screenshotOne.png)
+
 **Мощный инструмент для тестирования Man-in-the-Middle атак с поддержкой ARP и DNS спуфинга** 🌐
 
 ---
@@ -33,10 +35,14 @@
 - **Манипуляция ARP-таблицами** для перенаправления пакетов
 - **Поддержка различных сетевых конфигураций**
 
+![Скриншот интерфейса ARP.py](https://raw.githubusercontent.com/DenisPythoneer/MitMToolkit/main/image/screenshotTwo.png)
+
 ### 🌐 DNS Spoofing  
 - **Подмена DNS-запросов** в реальном времени
 - **Перенаправление доменных имен** на указанные IP-адреса
 - **Гибкая настройка правил подмены**
+
+![Скриншот интерфейса DNS.py](https://raw.githubusercontent.com/DenisPythoneer/MitMToolkit/main/image/screenshotThree.png)
 
 ### 💻 Профессиональный интерфейс
 - **Цветной консольный интерфейс** с ASCII-графикой
