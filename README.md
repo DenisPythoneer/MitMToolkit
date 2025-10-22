@@ -6,9 +6,9 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Security](https://img.shields.io/badge/Security-Penetration%20Testing-orange)
 
-![Скриншот интерфейса main.py](https://raw.githubusercontent.com/DenisPythoneer/MitMToolkit/main/image/screenshotOne.png)
-
 **Мощный инструмент для тестирования Man-in-the-Middle атак с поддержкой ARP и DNS спуфинга** 🌐
+
+![Скриншот интерфейса main.py](https://raw.githubusercontent.com/DenisPythoneer/MitMToolkit/main/image/screenshotOne.png)
 
 ---
 
@@ -87,9 +87,12 @@ pip3 install -r requirements.txt
 ```bash
 sudo python3 main.py
 ```
+---
 
 ### ⚠️ Важное предупреждение
 - **Только для легального использования!**
+
+---
 
 ## 🏗️ Структура проекта
 ```text
@@ -103,11 +106,14 @@ MitMToolkit/
 │
 └── requirements.txt       # Библиотеки
 ```
+---
 
 ### 🔧 Требования
 - **Python 3.8+**
 - **Права root/sudo**
 - **Linux/Unix система**
 - **Сетевой интерфейс с поддержкой promiscuous mode**
+
+---
 
 ## 🔗 Ссылка на автора: https://github.com/DenisPythoneer
